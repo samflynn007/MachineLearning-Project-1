@@ -1,6 +1,6 @@
-numpy
+numpy==1.24.1
 Flask
 gunicorn
 sklearn
-pandas
+pandas==1.5.3
 typing

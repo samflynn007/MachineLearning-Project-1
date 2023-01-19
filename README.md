@@ -24,9 +24,9 @@ To check the git status
 git log
 ```
 To check all version maintained by git
-```
 
 To Add file to git
+
 ```
 git add .
 ```
